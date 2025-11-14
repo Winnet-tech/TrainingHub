@@ -8,6 +8,8 @@ This project was created focusing on cloud deployment, web hosting,version contr
 
 ## Live Website
 https://hub4retail.store/
+## Video explainer
+https://www.loom.com/share/26b474aac9c545e79c132d1da6e55dc2
 
 
 ## 🚀 Features
