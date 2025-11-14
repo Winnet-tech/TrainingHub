@@ -62,7 +62,8 @@ hub4retail.store/
 - Port 80 (HTTP) and 443 (HTTPS) opened
 
 2.Connect to VM
-  ssh -i yourkey.pem winnetbaibie@y20.94.41.52
+  ssh -i yourkey.perm winnetbaibie@20.94.41.52 
+  verify using passphrase key
 
 3.Install and configure Nginx
   sudo apt update
