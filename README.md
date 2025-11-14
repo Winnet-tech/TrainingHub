@@ -88,6 +88,8 @@ git remote add origin <repo-url>
 git push -u origin master 
 
 ## Screenshots
+<img width="953" height="436" alt="image" src="https://github.com/user-attachments/assets/c292d4fc-e5e5-48ec-8aa1-530fe98e9db7" />
+<img width="920" height="410" alt="image" src="https://github.com/user-attachments/assets/428fab08-373d-4a1d-b317-eef4aed90ada" />
 <img width="382" height="245" alt="image" src="https://github.com/user-attachments/assets/e3a475ed-5cb7-4ea1-a852-8b1f30f505dc" />
 <img width="484" height="230" alt="image" src="https://github.com/user-attachments/assets/a7cc76dc-d785-4531-b135-e8668cc85dc5" />
 <img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/96456061-e9bf-4328-891e-b9a7dfd29fc6" />
