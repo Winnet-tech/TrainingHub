@@ -15,10 +15,10 @@ https://hub4retail.store/
 The platform includes the following full functional components:
 
 ## Website Pages 
-**Home**  - hero banner ,introductory content visuals 
-**About** Overview of the platform mission statement
-**Courses**- training modules and short descriptions
-**Contact**- details and structured contact section
+- **Home**  - hero banner ,introductory content visuals 
+- **About** -  Overview of the platform mission statement
+- **Courses** - training modules and short descriptions
+- **Contact** - details and structured contact section
 
 ## Technical Features
 - Responsive layout with clean design
